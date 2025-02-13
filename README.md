@@ -18,14 +18,14 @@ Before setting up the environment, ensure you have the following installed:
 
 ## 🚀 1. Setting Up with Docker Compose (Recommended)  
 
-This method provides the easiest and most streamlined way to run the Pebble development environment.  
+This method provides the easiest and most streamlined way to run the Pebble development environment. If you are on Windows, you should run these commands through a WSL terminal to allow the emulator to function. 
 
 ### **Steps:**  
 
 1. **Clone the repository:**  
    ```sh
    git clone https://github.com/FBarrCa/pebble-devcontainer.git
-   cd pebble-dev-container
+   cd pebble-devcontainer
    ```
 
 2. **Start the container:**  
@@ -54,7 +54,7 @@ If you're using **VS Code**, you can leverage **Dev Containers** to automaticall
 1. **Clone the repository:**  
    ```sh
    git clone https://github.com/FBarrCa/pebble-devcontainer.git
-   cd pebble-dev-container
+   cd pebble-devcontainer
    ```
 
 2. **Open VS Code and load the project folder.**  
